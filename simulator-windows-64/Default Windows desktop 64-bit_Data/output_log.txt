@@ -1,0 +1,430 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 4050 Laptop GPU (ID=0x28a1)
+    Vendor:   NVIDIA
+    VRAM:     5921 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.723 seconds
+Platform assembly: C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.147300 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4a14 -> priority: 1 
+  Thread -> id: 3f4c -> priority: 1 
+  Thread -> id: 47cc -> priority: 1 
+  Thread -> id: 40bc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.050100 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.265700 ms (FindLiveObjects: 0.025600 ms CreateObjectMapping: 0.013000 ms MarkObjects: 0.201200 ms  DeleteObjects: 0.025200 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.921100 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1465.
+Total: 0.654700 ms (FindLiveObjects: 0.064800 ms CreateObjectMapping: 0.029500 ms MarkObjects: 0.260600 ms  DeleteObjects: 0.299100 ms)
+
+Platform assembly: C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\KESHAV\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Xml.dll (this message is harmless)
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.593800 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 4.723200 ms (FindLiveObjects: 0.047300 ms CreateObjectMapping: 0.029700 ms MarkObjects: 0.734700 ms  DeleteObjects: 3.910500 ms)
+
+3/27/2025 7:38:33 AM|Fatal|WebSocket.acceptException|WebSocketSharp.WebSocketException: The header part of a frame cannot be read from the data source.
+                             at WebSocketSharp.WebSocketFrame+<ParseAsync>c__AnonStorey1E.<>m__1B (System.Byte[] header) [0x00000] in <filename unknown>:0 
+                             at WebSocketSharp.Ext+<ReadBytesAsync>c__AnonStoreyF.<>m__3 (IAsyncResult ar) [0x00000] in <filename unknown>:0 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.702100 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1468.
+Total: 0.830800 ms (FindLiveObjects: 0.056000 ms CreateObjectMapping: 0.023900 ms MarkObjects: 0.436700 ms  DeleteObjects: 0.313800 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3/27/2025 7:45:53 AM|Fatal|WebSocket.acceptException|WebSocketSharp.WebSocketException: The header part of a frame cannot be read from the data source.
+                             at WebSocketSharp.WebSocketFrame+<ParseAsync>c__AnonStorey1E.<>m__1B (System.Byte[] header) [0x00000] in <filename unknown>:0 
+                             at WebSocketSharp.Ext+<ReadBytesAsync>c__AnonStoreyF.<>m__3 (IAsyncResult ar) [0x00000] in <filename unknown>:0 
+3/27/2025 7:45:53 AM|Error|WebSocket.Close|The WebSocket connection has already been closed.
+3/27/2025 7:45:55 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+3/27/2025 7:45:57 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.937600 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 2.793700 ms (FindLiveObjects: 0.032000 ms CreateObjectMapping: 0.018000 ms MarkObjects: 0.487400 ms  DeleteObjects: 2.255500 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.427900 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 958.
+Total: 0.508200 ms (FindLiveObjects: 0.040800 ms CreateObjectMapping: 0.017400 ms MarkObjects: 0.428200 ms  DeleteObjects: 0.021300 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+3/27/2025 7:46:04 AM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+UnloadTime: 0.562900 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 435.
+Total: 0.991800 ms (FindLiveObjects: 0.035700 ms CreateObjectMapping: 0.011000 ms MarkObjects: 0.334000 ms  DeleteObjects: 0.610400 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.620800 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1471.
+Total: 0.666500 ms (FindLiveObjects: 0.063000 ms CreateObjectMapping: 0.021500 ms MarkObjects: 0.360100 ms  DeleteObjects: 0.221600 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.331600 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 435.
+Total: 2.089300 ms (FindLiveObjects: 0.034400 ms CreateObjectMapping: 0.025200 ms MarkObjects: 0.570800 ms  DeleteObjects: 1.458200 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.524700 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 961.
+Total: 0.802100 ms (FindLiveObjects: 0.067400 ms CreateObjectMapping: 0.027900 ms MarkObjects: 0.670900 ms  DeleteObjects: 0.034600 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.512300 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 438.
+Total: 1.168300 ms (FindLiveObjects: 0.029400 ms CreateObjectMapping: 0.011800 ms MarkObjects: 0.390600 ms  DeleteObjects: 0.735800 ms)
+
+3/27/2025 7:48:33 AM|Fatal|WebSocket.acceptException|WebSocketSharp.WebSocketException: The header part of a frame cannot be read from the data source.
+                             at WebSocketSharp.WebSocketFrame+<ParseAsync>c__AnonStorey1E.<>m__1B (System.Byte[] header) [0x00000] in <filename unknown>:0 
+                             at WebSocketSharp.Ext+<ReadBytesAsync>c__AnonStoreyF.<>m__3 (IAsyncResult ar) [0x00000] in <filename unknown>:0 3/27/2025 7:48:33 AM|Fatal|WebSocket.acceptException|WebSocketSharp.WebSocketException: The header part of a frame cannot be read from the data source.
+                             at WebSocketSharp.WebSocketFrame+<ParseAsync>c__AnonStorey1E.<>m__1B (System.Byte[] header) [0x00000] in <filename unknown>:0 
+                             at WebSocketSharp.Ext+<ReadBytesAsync>c__AnonStoreyF.<>m__3 (IAsyncResult ar) [0x00000] in <filename unknown>:0 
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.467900 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1474.
+Total: 1.017600 ms (FindLiveObjects: 0.105500 ms CreateObjectMapping: 0.053500 ms MarkObjects: 0.494500 ms  DeleteObjects: 0.363400 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.473100 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 438.
+Total: 1.580400 ms (FindLiveObjects: 0.022700 ms CreateObjectMapping: 0.010700 ms MarkObjects: 0.324500 ms  DeleteObjects: 1.222000 ms)
+
+3/27/2025 7:50:22 AM|Fatal|WebSocket.acceptException|System.IO.IOException: EndRead failure ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host.
+                           
+                             at System.Net.Sockets.Socket+SocketAsyncResult.CheckIfThrowDelayedException () [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.EndReceive (IAsyncResult asyncResult, System.Net.Sockets.SocketError& errorCode) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.EndReceive (IAsyncResult result) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.NetworkStream.EndRead (IAsyncResult ar) [0x00000] in <filename unknown>:0 
+                             --- End of inner exception stack trace ---
+                             at System.Net.Sockets.NetworkStream.EndRead (IAsyncResult ar) [0x00000] in <filename unknown>:0 
+                             at WebSocketSharp.Ext+<ReadBytesAsync>c__AnonStoreyF.<>m__3 (IAsyncResult ar) [0x00000] in <filename unknown>:0 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.482200 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1474.
+Total: 0.664500 ms (FindLiveObjects: 0.067300 ms CreateObjectMapping: 0.017400 ms MarkObjects: 0.358300 ms  DeleteObjects: 0.220700 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.922600 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 441.
+Total: 1.525200 ms (FindLiveObjects: 0.021800 ms CreateObjectMapping: 0.010200 ms MarkObjects: 0.320800 ms  DeleteObjects: 1.171800 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.591100 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1477.
+Total: 1.322500 ms (FindLiveObjects: 0.109600 ms CreateObjectMapping: 0.054300 ms MarkObjects: 0.694200 ms  DeleteObjects: 0.463400 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.508400 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 441.
+Total: 2.050800 ms (FindLiveObjects: 0.022400 ms CreateObjectMapping: 0.011200 ms MarkObjects: 0.324700 ms  DeleteObjects: 1.692100 ms)
+
+3/27/2025 7:52:01 AM|Fatal|WebSocket.acceptException|WebSocketSharp.WebSocketException: The header part of a frame cannot be read from the data source.
+                             at WebSocketSharp.WebSocketFrame+<ParseAsync>c__AnonStorey1E.<>m__1B (System.Byte[] header) [0x00000] in <filename unknown>:0 
+                             at WebSocketSharp.Ext+<ReadBytesAsync>c__AnonStoreyF.<>m__3 (IAsyncResult ar) [0x00000] in <filename unknown>:0 3/27/2025 7:52:01 AM|Fatal|WebSocket.acceptException|WebSocketSharp.WebSocketException: The header part of a frame cannot be read from the data source.
+                             at WebSocketSharp.WebSocketFrame+<ParseAsync>c__AnonStorey1E.<>m__1B (System.Byte[] header) [0x00000] in <filename unknown>:0 
+                             at WebSocketSharp.Ext+<ReadBytesAsync>c__AnonStoreyF.<>m__3 (IAsyncResult ar) [0x00000] in <filename unknown>:0 
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.356700 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1477.
+Total: 1.192000 ms (FindLiveObjects: 0.073700 ms CreateObjectMapping: 0.032000 ms MarkObjects: 0.599900 ms  DeleteObjects: 0.485400 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.489800 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 444.
+Total: 3.775500 ms (FindLiveObjects: 0.039700 ms CreateObjectMapping: 0.020600 ms MarkObjects: 0.592300 ms  DeleteObjects: 3.121600 ms)
+
+3/27/2025 7:53:33 AM|Fatal|WebSocket.acceptException|WebSocketSharp.WebSocketException: The header part of a frame cannot be read from the data source.
+                             at WebSocketSharp.WebSocketFrame+<ParseAsync>c__AnonStorey1E.<>m__1B (System.Byte[] header) [0x00000] in <filename unknown>:0 
+                             at WebSocketSharp.Ext+<ReadBytesAsync>c__AnonStoreyF.<>m__3 (IAsyncResult ar) [0x00000] in <filename unknown>:0 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.595500 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1480.
+Total: 1.205700 ms (FindLiveObjects: 0.084800 ms CreateObjectMapping: 0.035000 ms MarkObjects: 0.637500 ms  DeleteObjects: 0.447600 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.341700 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 444.
+Total: 2.226700 ms (FindLiveObjects: 0.025900 ms CreateObjectMapping: 0.014700 ms MarkObjects: 0.399700 ms  DeleteObjects: 1.785600 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.948900 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 970.
+Total: 0.816800 ms (FindLiveObjects: 0.068800 ms CreateObjectMapping: 0.025200 ms MarkObjects: 0.687400 ms  DeleteObjects: 0.034400 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.990900 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 447.
+Total: 2.081900 ms (FindLiveObjects: 0.034800 ms CreateObjectMapping: 0.017800 ms MarkObjects: 0.588600 ms  DeleteObjects: 1.439600 ms)
+
+3/27/2025 7:54:55 AM|Fatal|WebSocket.acceptException|WebSocketSharp.WebSocketException: The header part of a frame cannot be read from the data source.
+                             at WebSocketSharp.WebSocketFrame+<ParseAsync>c__AnonStorey1E.<>m__1B (System.Byte[] header) [0x00000] in <filename unknown>:0 
+                             at WebSocketSharp.Ext+<ReadBytesAsync>c__AnonStoreyF.<>m__3 (IAsyncResult ar) [0x00000] in <filename unknown>:0 3/27/2025 7:54:55 AM|Fatal|WebSocket.acceptException|WebSocketSharp.WebSocketException: The header part of a frame cannot be read from the data source.
+                             at WebSocketSharp.WebSocketFrame+<ParseAsync>c__AnonStorey1E.<>m__1B (System.Byte[] header) [0x00000] in <filename unknown>:0 
+                             at WebSocketSharp.Ext+<ReadBytesAsync>c__AnonStoreyF.<>m__3 (IAsyncResult ar) [0x00000] in <filename unknown>:0 
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.548200 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 973.
+Total: 0.415100 ms (FindLiveObjects: 0.031800 ms CreateObjectMapping: 0.014000 ms MarkObjects: 0.349700 ms  DeleteObjects: 0.014600 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.043100 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 447.
+Total: 4.908300 ms (FindLiveObjects: 0.118300 ms CreateObjectMapping: 0.055400 ms MarkObjects: 1.854200 ms  DeleteObjects: 2.877600 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.521600 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1483.
+Total: 0.951900 ms (FindLiveObjects: 0.068000 ms CreateObjectMapping: 0.027200 ms MarkObjects: 0.519700 ms  DeleteObjects: 0.336700 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.164900 ms
+
+Unloading 174 unused Assets to reduce memory usage. Loaded Objects now: 450.
+Total: 2.969500 ms (FindLiveObjects: 0.024900 ms CreateObjectMapping: 0.013600 ms MarkObjects: 0.345000 ms  DeleteObjects: 2.585400 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.460700 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 0.701600 ms (FindLiveObjects: 0.077200 ms CreateObjectMapping: 0.024500 ms MarkObjects: 0.569900 ms  DeleteObjects: 0.029100 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.678500 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 450.
+Total: 1.045800 ms (FindLiveObjects: 0.022500 ms CreateObjectMapping: 0.010300 ms MarkObjects: 0.396000 ms  DeleteObjects: 0.616500 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.702800 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 976.
+Total: 0.886300 ms (FindLiveObjects: 0.067600 ms CreateObjectMapping: 0.029900 ms MarkObjects: 0.749300 ms  DeleteObjects: 0.038400 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.698100 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 453.
+Total: 1.053100 ms (FindLiveObjects: 0.023600 ms CreateObjectMapping: 0.009600 ms MarkObjects: 0.373800 ms  DeleteObjects: 0.645400 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.964700 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 979.
+Total: 0.859200 ms (FindLiveObjects: 0.085300 ms CreateObjectMapping: 0.016500 ms MarkObjects: 0.733300 ms  DeleteObjects: 0.023300 ms)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Connection Open
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.666500 ms
+
+Unloading 91 unused Assets to reduce memory usage. Loaded Objects now: 453.
+Total: 1.078500 ms (FindLiveObjects: 0.021500 ms CreateObjectMapping: 0.010300 ms MarkObjects: 0.377600 ms  DeleteObjects: 0.668800 ms)
+
+3/27/2025 7:58:25 AM|Fatal|WebSocket.acceptException|System.IO.IOException: EndRead failure ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host.
+                           
+                             at System.Net.Sockets.Socket+SocketAsyncResult.CheckIfThrowDelayedException () [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.EndReceive (IAsyncResult asyncResult, System.Net.Sockets.SocketError& errorCode) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.EndReceive (IAsyncResult result) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.NetworkStream.EndRead (IAsyncResult ar) [0x00000] in <filename unknown>:0 
+                             --- End of inner exception stack trace ---
+                             at System.Net.Sockets.NetworkStream.EndRead (IAsyncResult ar) [0x00000] in <filename unknown>:0 
+                             at WebSocketSharp.Ext+<ReadBytesAsync>c__AnonStoreyF.<>m__3 (IAsyncResult ar) [0x00000] in <filename unknown>:0 
